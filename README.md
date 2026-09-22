@@ -4,7 +4,7 @@
 
 CricketOps is a real-time cricket operations, scoring engine, and broadcast platform engineered by **SpideyTech**. It replaces manual scorebooks, disconnected spreadsheets, and manually manipulated streaming graphics with an authoritative, ledger-backed data engine.
 
----
+
 
 ## 🏏 The Story Behind CricketOps
 
@@ -14,7 +14,7 @@ In local, corporate, academy, and district cricket across Bangladesh, scoring is
 
 Every ball bowled is a permanent, immutable ledger entry. Live scores, career figures, bowling economies, partnership graphs, template commentary, and OBS broadcast overlays are derived directly from this single source of truth. If a delivery is corrected or undone, the engine leaves an auditable trail and recalculates downstream aggregates without silent data loss.
 
----
+
 
 ## 🚀 Key Features
 
@@ -26,7 +26,7 @@ Every ball bowled is a permanent, immutable ledger entry. Live scores, career fi
 * **Audited Correction Engine:** Undo and edit past balls safely with complete recalculation of strike rotation, bowler figures, and over boundaries.
 * **Tournament & Operations Hub:** Fixtures, points tables, net run rates, player claim verification, and integrated local commerce (SSLCommerz).
 
----
+
 
 ## 🏗️ Technical Architecture
 
