@@ -1,6 +1,6 @@
-# CricketOps — by SpideyTech
+# CricketOps - by SpideyTech
 
-> **Score once. Store once. Calculate once. Show everywhere.**
+**Score once. Store once. Calculate once. Show everywhere.**
 
 CricketOps is a real-time cricket operations, scoring engine, and broadcast platform engineered by **SpideyTech**. It replaces manual scorebooks, disconnected spreadsheets, and manually manipulated streaming graphics with an authoritative, ledger-backed data engine.
 
@@ -58,3 +58,10 @@ CricketOps is designed as a **modular monolith**, keeping domain boundaries clea
 |   • Audited Corrections       |   |    • Ephemeral Cache    |
 |   • Relational Identities     |   |    • Celery Task Broker |
 +-------------------------------+   +-------------------------+
+
+
+
+Owner & Maintainer
+Developed and Maintained by SpideyTech
+Lead Engineer & Architecture: Md. Masum Billah
+Dhaka, Bangladesh
