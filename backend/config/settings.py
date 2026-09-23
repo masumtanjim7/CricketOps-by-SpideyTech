@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'tournaments', 
     'matches',
     'scoring',
+    'stats',
     
 ]
 
