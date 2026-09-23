@@ -43,11 +43,12 @@ INSTALLED_APPS = [
     # Local apps
     'accounts',
     'organizations',
-    'players',  # Added
+    'players',  
     'teams',
-    'tournaments', # Added
-    'matches',     # Added
-    # Added
+    'tournaments', 
+    'matches',
+    'scoring',
+    
 ]
 
 MIDDLEWARE = [
