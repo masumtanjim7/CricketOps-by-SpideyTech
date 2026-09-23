@@ -67,7 +67,7 @@ class ScorerController extends Notifier<MatchUIState> {
       wsService.disconnect();
     });
 
-    return MatchUIState(score: 0, overs: 0.0, version: 1);
+    return MatchUIState(score: 4, overs: 0.1, version: 2);
   }
 
   Future<void> submitBall({
