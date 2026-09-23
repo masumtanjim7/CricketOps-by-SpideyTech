@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     # Local apps
     'accounts',
     'organizations',
+    'players',  # Added
+    'teams',    # Added
 ]
 
 MIDDLEWARE = [
