@@ -44,7 +44,10 @@ INSTALLED_APPS = [
     'accounts',
     'organizations',
     'players',  # Added
-    'teams',    # Added
+    'teams',
+    'tournaments', # Added
+    'matches',     # Added
+    # Added
 ]
 
 MIDDLEWARE = [
