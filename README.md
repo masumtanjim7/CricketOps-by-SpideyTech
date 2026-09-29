@@ -8,7 +8,7 @@ CricketOps is a real-time cricket operations, scoring engine, and broadcast plat
 
 ## 🏏 The Story Behind CricketOps
 
-In local, corporate, academy, and district cricket across Bangladesh, scoring is often fragmented. Scorers grapple with unreliable cellular connectivity, tournament administrators struggle to calculate net run rates accurately, and live streamers waste effort hand-updating score bugs in OBS.
+
 
 **SpideyTech** engineered CricketOps to resolve this foundational issue: **treat cricket scoring as a financial-grade transactional ledger, not a loose set of database records.**
 
