@@ -28,7 +28,7 @@ Every ball bowled is a permanent, immutable ledger entry. Live scores, career fi
 
 
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 CricketOps is designed as a **modular monolith**, keeping domain boundaries clean without the unnecessary operational overhead of premature microservices:
 
