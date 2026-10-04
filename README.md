@@ -6,7 +6,7 @@ CricketOps is a real-time cricket operations, scoring engine, and broadcast plat
 
 
 
-## 🏏 The Story Behind CricketOps
+## The Story Behind CricketOps
 
 In local, corporate, academy, and district cricket across Bangladesh, scoring is often fragmented. Scorers grapple with unreliable cellular connectivity, tournament administrators struggle to calculate net run rates accurately, and live streamers waste effort hand-updating score bugs in OBS.
 
@@ -16,7 +16,7 @@ Every ball bowled is a permanent, immutable ledger entry. Live scores, career fi
 
 
 
-## 🚀 Key Features
+## Key Features
 
 * **Authoritative Ball-by-Ball Delivery Ledger:** PostgreSQL-backed scoring engine with row-level locks, idempotency keys, and optimistic version checks to eliminate ghost deliveries or duplicate counts.
 * **Real-Time Synchronization:** Django Channels publishes live WebSocket events to all clients in sub-second latency only *after* the database transaction commits.
