@@ -1,3 +1,0 @@
-# npm i 
-npi v 
-npm dev ren 
